@@ -1,4 +1,3 @@
-package Projeto_Julio_Cesar_Requena;
 public class B {
     private int B1;
     private float B2;
